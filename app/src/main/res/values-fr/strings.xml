@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tainan">Taïnan</string>
+    <string name="sunny">Ensoleillé</string>
+    <string name="max_32">Max : </string>
+    <string name="aqi_000">AQI:</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="next_10_days"><![CDATA[10 prochains jours >]]></string>
+    <string name="min_20">Min : </string>
+    <string name="tomorrow">demain</string>
+    <string name="sun">Sun</string>
+    <string name="_10_days_weather">Météo à 10 joursMétéo à 10 jours</string>
+    <string name="map">Carte</string>
+    <string name="add_city">Ajouter une ville</string>
+    <string name="add">Ajouter</string>
+    <string name="manger_city">crèche ville</string>
+    <string name="Tomorrow">Tomorrow</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="Sun">Sun</string>
+    <string name="Mon">Mon</string>
+    <string name="rain">Rain</string>
+    <string name="Sunny">Sunny</string>
+    <string name="cloud">" Cloud"</string>
+    <string name="Rain">Rain</string>
+    <string name="rain1">Rain</string>
+    <string name="rain2">Rain</string>
+    <string name="rain3">Rain</string>
+    <string name="rain4">Rain</string>
+    <string name="rain5">Rain</string>
+    <string name="rain6">Rain</string>
+</resources>

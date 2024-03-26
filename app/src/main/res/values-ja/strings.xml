@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tainan">台南</string>
+    <string name="sunny">晴れ</string>
+    <string name="max_32">最大: </string>
+    <string name="aqi_000">AQI:</string>
+    <string name="today">今日</string>
+    <string name="next_10_days"><![CDATA[次の 10 日間 >]]></string>
+    <string name="min_20">最小: </string>
+    <string name="tomorrow">明日</string>
+    <string name="sun">太陽</string>
+    <string name="_10_days_weather">10日間の天気</string>
+    <string name="map">地図</string>
+    <string name="add_city">都市を追加</string>
+    <string name="add">追加</string>
+    <string name="manger_city">manger city</string>
+    <string name="Tomorrow">Tomorrow</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="Sun">Sun</string>
+    <string name="Mon">Mon</string>
+    <string name="rain">Rain</string>
+    <string name="Sunny">Sunny</string>
+    <string name="cloud">" Cloud"</string>
+    <string name="Rain">Rain</string>
+    <string name="rain1">Rain</string>
+    <string name="rain2">Rain</string>
+    <string name="rain3">Rain</string>
+    <string name="rain4">Rain</string>
+    <string name="rain5">Rain</string>
+    <string name="rain6">Rain</string>
+</resources>

@@ -1,0 +1,38 @@
+
+    {
+      "name": "Taipei",
+      "currentWeather": {
+        "temperature": 26,
+        "maxTemperature": 28,
+        "minTemperature": 24,
+        "weatherStatus": "晴",
+        "airQualityIndex": 42
+      },
+      "hourlyWeather": [
+        {"time": "08:00", "maxTemperature": 29, "minTemperature": 21,"weatherStatus": "晴"},
+        {"time": "09:00", "maxTemperature": 25, "minTemperature": 21,"weatherStatus": "晴"},
+        {"time": "10:00", "maxTemperature": 24, "minTemperature": 21,"weatherStatus": "晴"},
+        {"time": "11:00", "maxTemperature": 22, "minTemperature": 21,"weatherStatus": "晴"},
+        {"time": "12:00", "maxTemperature": 29, "minTemperature": 20,"weatherStatus": "晴"},
+        {"time": "13:00", "maxTemperature": 29, "minTemperature": 26,"weatherStatus": "晴"},
+        {"time": "14:00", "maxTemperature": 29, "minTemperature": 21,"weatherStatus": "晴"},
+        {"time": "15:00","maxTemperature": 25, "minTemperature": 21,"weatherStatus": "晴"},
+        {"time": "16:00","maxTemperature": 26, "minTemperature": 20,"weatherStatus": "晴"},
+        {"time": "17:00", "maxTemperature": 29, "minTemperature": 25,"weatherStatus": "晴"},
+        {"time": "18:00", "maxTemperature": 29, "minTemperature": 21,"weatherStatus": "晴"},
+        {"time": "19:00", "maxTemperature": 28, "minTemperature": 21,"weatherStatus": "晴"}
+      ],
+      "tenDaysForecast": [
+        {"date": "2024-03-04", "maxTemperature": 29, "minTemperature": 21,"weatherStatus": "晴"},
+        {"date": "2024-03-05", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-06", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-07", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-08", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-09", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-10", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-11", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-12", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"},
+        {"date": "2024-03-13", "maxTemperature": 27, "minTemperature": 20,"weatherStatus": "晴"}
+      ]
+    }
+
